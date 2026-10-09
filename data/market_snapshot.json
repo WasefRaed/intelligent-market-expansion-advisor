@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "title": "UAE restaurant expansion research snapshot",
+    "snapshot_date": "2026-10-07",
+    "currency": "AED",
+    "important_note": "Strategic estimates are hypotheses for planning, not quoted rents, legal advice, or guaranteed market prices. Validate each shortlisted site and menu with current landlord quotes, mystery shopping, and local advisors before investment."
+  },
+  "cities": {
+    "Dubai": {
+      "positioning": "Large, highly competitive, international dining market; strong fit for a differentiated Jordanian/Levantine fast-casual concept.",
+      "areas": [
+        {"name":"Jumeirah Lakes Towers (JLT)","audience":"dense residential + office + young professionals; families and international residents","traffic":"high","rent_pressure":"medium-high","fit":"very high","why":"Walkable mixed-use district with many restaurants, offices, apartments and metro access. Good test market for delivery + dine-in.","tradeoff":"Strong restaurant density means differentiation and visibility matter."},
+        {"name":"Business Bay","audience":"professionals, residents, hotel guests, tourists","traffic":"high","rent_pressure":"high","fit":"high","why":"Central, fast-growing mixed-use area near Downtown with strong business and hospitality demand.","tradeoff":"Higher occupancy/fit-out pressure; must justify premium site economics."},
+        {"name":"Jumeirah / Al Wasl corridor","audience":"affluent residents, families, destination diners","traffic":"medium-high","rent_pressure":"high","fit":"high","why":"Affluent residential and café culture; useful for a brand-building flagship.","tradeoff":"Premium rents and established dining competition can raise the break-even point."},
+        {"name":"JBR / Dubai Marina","audience":"tourists, residents, leisure visitors, families","traffic":"very high","rent_pressure":"very high","fit":"medium-high","why":"Exceptional evening/weekend footfall and tourism exposure.","tradeoff":"Very competitive and expensive; better for a proven concept than a first UAE store."},
+        {"name":"Deira / Bur Dubai","audience":"value-conscious residents, workers, tourists, established communities","traffic":"high","rent_pressure":"low-medium","fit":"high","why":"Dense, established communities and strong appetite for Arabic/Levantine casual food.","tradeoff":"Lower average ticket and stronger value competition; brand presentation must stay premium enough."}
+      ],
+      "recommended_sequence": ["JLT", "Deira/Bur Dubai", "Business Bay", "Jumeirah/Al Wasl", "JBR/Marina"]
+    },
+    "Abu Dhabi": {
+      "positioning": "More compact, relationship-driven market with strong family, professional and established-community demand; Arabic food authenticity can be a strong asset.",
+      "areas": [
+        {"name":"Al Reem Island","audience":"young professionals, families, apartment residents","traffic":"high","rent_pressure":"medium-high","fit":"very high","why":"Dense modern residential community with dining and retail nodes; strong delivery and repeat-order potential.","tradeoff":"Newer premium residential audience expects polished service and digital convenience."},
+        {"name":"Al Zahiyah / Tourist Club Area","audience":"families, workers, business travelers, long-established residents","traffic":"high","rent_pressure":"medium","fit":"very high","why":"Established dining district with long-running restaurants, broad customer mix and central access.","tradeoff":"High value competition; must own a distinctive meat-pizza + kebab proposition."},
+        {"name":"Khalidiya / Corniche","audience":"families, professionals, residents, hotel guests","traffic":"high","rent_pressure":"medium-high","fit":"high","why":"Established residential/corniche catchment with family and hospitality demand.","tradeoff":"Competition ranges from casual Arabic to hotel dining; site visibility is critical."},
+        {"name":"Yas Island","audience":"tourists, families, leisure visitors, affluent residents","traffic":"high on peaks","rent_pressure":"high","fit":"medium-high","why":"Strong destination and tourism ecosystem with major leisure attractions.","tradeoff":"Demand can be event/season driven and occupancy costs can be high."},
+        {"name":"Mussafah / MBZ City catchment","audience":"workers, families, value-conscious residents","traffic":"high local","rent_pressure":"low-medium","fit":"high","why":"Potentially attractive economics and delivery radius for a value-led branch.","tradeoff":"Lower brand-building value and more price-sensitive demand."}
+      ],
+      "recommended_sequence": ["Al Reem Island", "Al Zahiyah", "Khalidiya/Corniche", "Mussafah/MBZ catchment", "Yas Island"]
+    }
+  },
+  "competitors": [
+    {"name":"Zaatar w Zeit","category":"Levantine urban fast-casual","cities":["Dubai","Abu Dhabi"],"positioning":"modern Levantine wraps/manakeesh, broad digital delivery footprint","strength":"brand familiarity, convenience, menu breadth","opportunity":"win with a sharper Jordanian meat + pizza identity rather than generic Levantine breadth","source":"https://zaatarwzeit.com/UAE/locations"},
+    {"name":"Zaroob","category":"Levantine street food","cities":["Dubai"],"positioning":"authentic Levantine street-food experience with shawarma/manakeesh and late hours","strength":"strong heritage/storytelling, recognizable street-food format","opportunity":"differentiate through signature meat pizza, kebab sandwiches, open-fire/grill theatre and Jordanian provenance","source":"https://www.zaroob.com/"},
+    {"name":"Laffah","category":"Arabic fast food / shawarma","cities":["Dubai"],"positioning":"high-volume value-oriented shawarma and fast food","strength":"affordability, delivery and operational speed","opportunity":"avoid direct price war; compete on meat quality, pizza innovation and brand experience","source":"https://www.laffahrestaurants.com/"},
+    {"name":"Operation: Falafel","category":"Arabic street food fast-casual","cities":["Dubai","Abu Dhabi"],"positioning":"Dubai-born modern Arabic street food","strength":"strong modern brand and scalable casual format","opportunity":"own a more specific Jordanian grilled-meat proposition","source":"https://www.zayedinternationalairport.ae/en/shop-dine-and-experience/dining/restaurants/operation-falafel"},
+    {"name":"PizzaExpress UAE","category":"international pizza casual dining","cities":["Dubai","Abu Dhabi"],"positioning":"established pizza brand with broad UAE footprint","strength":"brand awareness, dine-in experience, broad pizza menu","opportunity":"do not imitate Italian positioning; use Jordanian meat, kebab and Levantine flavor as the moat","source":"https://www.pizzaexpress.ae/"}
+  ],
+  "price_bands": {
+    "strategy": "Recommended launch bands are deliberately mid-market fast-casual, with enough gross margin headroom for delivery commissions and UAE operating costs.",
+    "bands_aed": [
+      {"item":"Kebab / grilled-meat sandwich","target":"24-34","premium_signature":"35-42","logic":"Accessible entry price with signature upsell."},
+      {"item":"Individual meat pizza","target":"38-52","premium_signature":"53-65","logic":"Below many premium casual pizza tickets while supporting differentiated toppings."},
+      {"item":"Sharing pizza / family size","target":"59-89","premium_signature":"90-110","logic":"Family/group anchor and delivery-friendly basket builder."},
+      {"item":"Combo (main + side + drink)","target":"39-55","premium_signature":"56-65","logic":"Core lunch/delivery value proposition."},
+      {"item":"Sides","target":"10-20","premium_signature":"21-28","logic":"Attach-rate drivers: fries, hummus, pickles, sauces, salads."},
+      {"item":"Dessert / Arabic sweet","target":"12-24","premium_signature":"25-30","logic":"Simple high-margin finish and local familiarity."}
+    ],
+    "market_anchor": "PizzaExpress UAE currently advertises individual pizzas around AED 61-76 on its online menu, while Zaroob's official menu includes entry items around AED 20-22. These anchors illustrate the broad casual range rather than a recommended price for the new concept.",
+    "source_urls": ["https://www.pizzaexpress.ae/main-menu-pizza", "https://www.zaroob.com/menu?menu=menu"]
+  },
+  "menu_strategy": {
+    "hero_items": [
+      "Jordanian Meat Pizza: spiced minced beef/lamb, onion, tomato, green pepper, sumac and tahini drizzle",
+      "Kebab Saj Sandwich: grilled kebab, toum/tahini, pickles, tomato and herbs",
+      "Arayes-inspired Meat Pizza: crisp minced-meat filling profile adapted to pizza format",
+      "Mixed Grill Box: kebab + chicken + fries + sauces for sharing",
+      "Signature Jordanian sauce flight: tahini, toum, chili, pomegranate/molasses-style sauce"
+    ],
+    "localization": [
+      "Offer Arabic and English menu naming; keep Jordanian provenance visible but easy to understand.",
+      "Provide mild/medium/spicy controls.",
+      "Include family/share sizes and office lunch bundles.",
+      "Use halal-certified supply chain and clearly communicate allergen information.",
+      "Keep 70-80% of the opening menu standardized; localize 20-30% by city/season based on sales data."
+    ]
+  },
+  "marketing": {
+    "prelaunch":"4 weeks: teaser content, founder/Jordan story, behind-the-scenes testing, micro-influencer seeding, delivery waitlist.",
+    "launch":"7 days: limited signature item, creator tasting, opening-week bundle, geo-targeted social ads, Google Maps/review activation, delivery platform visibility.",
+    "retention":"Loyalty wallet, office catering, family bundles, referral codes, WhatsApp CRM where compliant, monthly limited-time meat-pizza drop.",
+    "partnerships":"coworking spaces, gyms, residential communities, hotels, corporate offices, university/student communities, event organizers and delivery platforms.",
+    "channels":"Instagram/TikTok, Google Business Profile, delivery apps, creator partnerships, CRM, corporate sales, local community activations."
+  },
+  "operations": {
+    "delivery":"Use delivery platforms for acquisition but build first-party repeat ordering/CRM to reduce dependency; measure contribution margin after commission, discounts and packaging.",
+    "kitchen":"Centralize marinades/sauces and dough specifications; use recipe cards, yield controls, portion scales and daily waste logs.",
+    "staffing":"Hire a strong UAE-based store manager; train grill/pizza stations against SOPs; cross-train to cover peaks.",
+    "supply":"Dual-source key proteins, cheese, flour and packaging; qualify backup suppliers before launch; protect signature spice blend with controlled procurement.",
+    "quality":"Track ticket time, order accuracy, food waste, complaint rate, repeat rate and platform rating daily."
+  },
+  "regulatory": {
+    "general":"Confirm economic activity, legal structure, trade name, premises, initial approvals and all activity-specific government approvals before signing a lease or fit-out contract.",
+    "dubai":"Dubai Municipality publishes Food Code, food establishment requirements and food-related permits/approvals.",
+    "abu_dhabi":"Use Abu Dhabi's current government/food-safety authority requirements for food establishment approvals and inspections.",
+    "tax":"UAE VAT is 5%. Mandatory VAT registration threshold is AED 375,000 of taxable supplies/imports; UAE corporate tax is 0% up to AED 375,000 taxable income and 9% above that threshold, subject to applicable rules.",
+    "sources":["https://www.dm.gov.ae/municipality-business/food-traders-establishments/","https://u.ae/en/information-and-services/finance-and-investment/taxation/vat/valueaddedtaxvat","https://u.ae/en/information-and-services/finance-and-investment/taxation/corporate-tax"]
+  },
+  "seasonality": {
+    "ramadan":"Shift operating hours and campaign timing, emphasize iftar/family sharing and delivery, and validate local rules for food service during daylight hours.",
+    "summer":"Prioritize delivery, indoor community locations and cold-chain discipline; use lighter sides/drinks and evening campaigns.",
+    "eid":"Bundle family meals, gifting/dessert add-ons and creator content around gatherings.",
+    "events":"In Dubai and Abu Dhabi, test pop-ups/catering at community and corporate events before committing to expensive destination sites."
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "reviewed_on": "2026-10-09",
+  "policy": "Human-reviewed authoritative public pages; fixed offline references, not live fetching or a guarantee of current rules. Each note verifies ONLY its stated claim. No source here verifies a rent quote, footfall, platform fee, market share, restaurant demand or suitable lease.",
+  "sources": [
+    {
+      "id": "FTA-VAT-REG",
+      "category": "tax",
+      "publisher": "UAE Federal Tax Authority",
+      "title": "Registration for VAT",
+      "url": "https://tax.gov.ae/en/taxes/Vat/vat.topics/registration.for.vat.aspx",
+      "supported_claim": "The FTA gives a mandatory VAT registration threshold of AED 375,000 in taxable supplies and imports over the preceding 12 months, or expected in the next 30 days, for the resident-business situation described on this page.",
+      "limitations": "Registration exceptions and non-resident rules vary; this is not a determination that the restaurant is already registered or liable.",
+      "tags": ["tax", "vat", "financial", "licensing"]
+    },
+    {
+      "id": "FTA-CT-RATES",
+      "category": "tax",
+      "publisher": "UAE Federal Tax Authority",
+      "title": "Corporate Tax — General Guide",
+      "url": "https://www.tax.gov.ae/en/content/corporate.tax.general.guide.aspx",
+      "supported_claim": "The general UAE Corporate Tax rates in the FTA guide are 0% on taxable income up to AED 375,000 and 9% on taxable income above that level.",
+      "limitations": "This is taxable INCOME, not turnover and not a general CT registration threshold. Eligibility, exemptions, and current rules must be checked with FTA.",
+      "tags": ["tax", "corporate", "financial", "licensing"]
+    },
+    {
+      "id": "FTA-CT-REG",
+      "category": "tax",
+      "publisher": "UAE Federal Tax Authority",
+      "title": "Corporate Tax Registration",
+      "url": "https://www.tax.gov.ae/en/services/corporate.tax.registration.aspx",
+      "supported_claim": "Persons subject to UAE Corporate Tax are directed to apply for a Corporate Tax Registration Number under the applicable FTA registration rules.",
+      "limitations": "Which rules apply depends on entity type; a tax professional should confirm the restaurant's obligations and deadlines.",
+      "tags": ["tax", "corporate", "financial", "licensing"]
+    },
+    {
+      "id": "DM-FOOD",
+      "category": "food_safety",
+      "publisher": "Dubai Municipality",
+      "title": "For Food Traders and Establishments",
+      "url": "https://www.dm.gov.ae/municipality-business/food-traders-establishments/",
+      "supported_claim": "Dubai Municipality publishes Food Code materials and food-establishment, transportation, food activity permit and approval requirements.",
+      "limitations": "This source does not establish approval for a particular site, equipment layout, venting specification, timeline or landlord arrangement.",
+      "tags": ["dubai", "food", "licensing", "operations", "regulatory"]
+    },
+    {
+      "id": "UAE-FOOD-AUTH",
+      "category": "food_safety",
+      "publisher": "UAE Government Portal",
+      "title": "Food safety",
+      "url": "https://u.ae/en/information-and-services/health-and-fitness/food-safety-and-health-tips",
+      "supported_claim": "The UAE Government Portal identifies ADAFSA as the food-safety authority in Abu Dhabi and the relevant municipal authorities for food safety in Dubai.",
+      "limitations": "This does not specify permits, approval timing or suitability of any individual kitchen in Abu Dhabi.",
+      "tags": ["abu dhabi", "dubai", "food", "licensing", "operations", "regulatory"]
+    },
+    {
+      "id": "DXB-JLT-GUIDE",
+      "category": "neighbourhood",
+      "publisher": "Visit Dubai — official destination website",
+      "title": "Jumeirah Lakes Towers guide",
+      "url": "https://www.visitdubai.com/en/explore-dubai/dubai-neighbourhoods/jumeirah-lakes-towers",
+      "supported_claim": "The destination guide describes JLT as mixed offices, apartments and hotels, restaurants at tower bases and a walkable lake-and-park layout with metro access.",
+      "limitations": "A tourism description is NOT verified pedestrian counts, restaurant sales, current availability, rental pricing, delivery demand or site-specific ROI.",
+      "tags": ["dubai", "jlt", "location", "neighbourhood"]
+    },
+    {
+      "id": "AUH-ZAHIYAH-GUIDE",
+      "category": "neighbourhood",
+      "publisher": "Experience Abu Dhabi — official destination website",
+      "title": "Al Zahiyah neighbourhood guide",
+      "url": "https://visitabudhabi.ae/en/where-to-go/marinas-waterfronts/al-zahiyah",
+      "supported_claim": "The destination guide describes Al Zahiyah (Tourist Club Area) as an established, centrally located Abu Dhabi neighbourhood near the Corniche and main business district.",
+      "limitations": "It does NOT verify rents, achievable average ticket, local restaurant demand, competitive saturation or suitability for a specific first branch.",
+      "tags": ["abu dhabi", "al zahiyah", "location", "neighbourhood"]
+    }
+  ]
+}

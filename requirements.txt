@@ -1,0 +1,12 @@
+# Tested locally on the user's machine with Agno 2.9.0 / Python 3.12.
+# Google Gemini SDK is required by agno.models.google.Gemini.
+agno==2.9.0
+google-genai>=1.0.0
+python-dotenv>=1.0.1
+rich>=13.9.0
+pydantic>=2.10.0
+pytest>=8.3.0
+
+# Executive dashboard and scenario dataframes
+streamlit>=1.42,<2
+pandas>=2.2,<3

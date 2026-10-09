@@ -1,0 +1,13 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+.streamlit/secrets.toml
+*.log
+.DS_Store
+
+# Local quota cooldown state and private diagnostics
+.runtime/
