@@ -4,7 +4,7 @@ The project was developed **with AI assistance**. This disclosure is intended fo
 
 ## Tools and how they were used
 
-- **ChatGPT (OpenAI):** assisted with solution planning, architecture suggestions, Python/Agno and Streamlit implementation drafts, iterative debugging, test design, project documentation, financial and evidence safeguards, evaluation summaries, and demo-script drafting. The human developer ran the software and shared the resulting tests, screenshots and logs for analysis.
+- **ChatGPT (OpenAI):** assisted with solution planning, architecture suggestions, Python/Agno and Streamlit implementation drafts, iterative debugging, test design, project documentation, financial and evidence safeguards, evaluation summaries. The human developer ran the software and shared the resulting tests, screenshots and logs for analysis.
 - **Google Gemini API (via Agno):** provides the application's language-model reasoning, specialist-team coordination and executive-style narrative recommendations when a live AI request is made. Gemini is **not** the source of truth for the deterministic finance, location-screening, or official-reference registry datasets.
 - **Agno:** primary agentic framework for the coordinator, domain specialists, and their Python tool integrations. Agno itself is a framework, not an additional evidence source.
 - **Streamlit:** front-end dashboard and interactive scenario controls; not an AI model.

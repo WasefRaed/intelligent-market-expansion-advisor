@@ -2,7 +2,7 @@
 
 ## Observed provider constraint
 
-In the user-supplied October 2026 terminal logs, Google's Gemini API responded with `429 RESOURCE_EXHAUSTED`. One logged message specified an observed free-tier **20 requests/day/project/model** allowance for `gemini-3.6-flash`. This is an observation for that Google project, not a universal or permanent Google pricing promise. A multi-agent question can require multiple requests and exhaust allowance faster than a single focused question.
+During October 2026 local validation, Google's Gemini API responded with `429 RESOURCE_EXHAUSTED`. One logged message specified an observed free-tier **20 requests/day/project/model** allowance for `gemini-3.6-flash`. This is an observation for that Google project, not a universal or permanent Google pricing promise. A multi-agent question can require multiple requests and exhaust allowance faster than a single focused question.
 
 ## What the implementation does
 

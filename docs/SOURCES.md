@@ -2,7 +2,7 @@
 
 ## Reviewed authoritative references (2026-10-09)
 
-The machine-readable registry `data/source_registry.json` is the **single source of truth** for the curated official references. Each record contains a precise supported claim, public URL, review date (at registry level), and limitations. See `docs/PHASE5_RESEARCH_EVIDENCE.md` for how evidence is selected and presented.
+The machine-readable registry `data/source_registry.json` is the **single source of truth** for the curated official references. Each record contains a precise supported claim, public URL, review date (at registry level), and limitations. Evidence is selected for the advisor by `app/evidence_registry.py`.
 
 Reviewed categories:
 - Federal Tax Authority: VAT mandatory registration, Corporate Tax rate bands on **taxable income**, and Corporate Tax registration service.

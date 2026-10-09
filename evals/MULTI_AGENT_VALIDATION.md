@@ -1,8 +1,8 @@
 # Recorded Agno Multi-Agent Delegation
 
-**Environment:** User's Windows laptop, Python 3.12, Agno 2.9.0, Google Gemini.  
+**Environment:** Windows, Python 3.12, Agno 2.9.0, Google Gemini.  
 **Test:** Narrow comparison of JLT vs Deira plus menu positioning.  
-**Date:** 2026-10-09 (user-provided run).  
+**Date:** 2026-10-09 (recorded local run).  
 **Result:** **Delegation confirmed for two agents**, not all five.
 
 ## Recorded terminal excerpt (sanitized; from a real user run)
